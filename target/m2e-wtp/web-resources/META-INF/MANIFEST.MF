@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Pc
+Build-Jdk: 16.0.1
+Implementation-Title: spring-boot-rest
+Implementation-Version: 2.0.6.RELEASE
+Implementation-Vendor-Id: com.baeldung.web
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-rest
+Main-Class: com.baeldung.SpringBootRestApplication
+Created-By: Maven Integration for Eclipse
+
